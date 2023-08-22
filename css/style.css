@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+*{
+    overflow: hidden;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    background-color: whitesmoke;
+}
+
+#calculadora{
+display: flex;
+border: ridge 2px;
+padding: 5px;
+}
+
+#lista{
+display: flex;
+border: ridge 2px;
+}
